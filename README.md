@@ -22,6 +22,9 @@ With game engines!
 ### :video_game: [Are You Awake?](https://woyboy.itch.io/are-you-awake)
 > *First-person horror game following the story of insomnia with psychological tension and rich storytelling.*
 
+## :email: Contact
+You can find me on my Discord server, where I'm part of my community. I am always active and willing to hear you out.
+- https://discord.gg/Wdx2GHWNn9
 
 <!--
 **Woyboy1/Woyboy1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
