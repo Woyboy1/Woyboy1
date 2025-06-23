@@ -2,7 +2,7 @@
 
 ## :coffee: About Me 
 Welcome to my profile! I'm a Unity and Unreal Game developer. Mainly focusing on creating Unity games! I love learning new things and playing around
-With game engines!
+with game engines!
 
 ---
 
